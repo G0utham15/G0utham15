@@ -1,7 +1,7 @@
 <h1 align="center">Hey Stranger 👋, I'm Goutham</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g0utham15&label=Profile%20views&color=0e75b6&style=flat" alt="g0utham15" /> </p>
 
-- 🌱 I’m currently learning **React, Spring**
+- 🌱 I’m currently learning **Angular**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
